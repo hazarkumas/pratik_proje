@@ -1,3 +1,6 @@
 ADIMLAR
 1- İlk deneme girdisi - 1.11.2025 - 11:19am
 2 - Ikinci deneme girdisi - sadece git add - 1.11.2025 - 11:31am
+3- forklandi
+4- clonelandi
+5- git push denemesinden once yazildi
